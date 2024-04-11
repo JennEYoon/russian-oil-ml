@@ -1,7 +1,9 @@
-# russian-oil-ml repo readme  
+# russian-oil-ml project readme  
 
-Russian Oil supply analysis and forecast, post 2022 Ukraine war. Python, AI, machine learning, data science, financial frecast, time series  
+Russian oil supply analysis and forecast, post 2022 Ukraine war. Python, AI, machine learning, data science, financial forecast, time-series, economic analysis     
 
+Project Start Date: April 10, 2024    
+Author: Jennifer E Yoon, JennEYoon@gmail.com  
 
 
 
